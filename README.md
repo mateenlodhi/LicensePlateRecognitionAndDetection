@@ -1,2 +1,4 @@
 # LicensePlateRecognitionAndDetection
-LePRD is an ANN model that takes in an image of a car and returns the license plate number in machine-readable text. 
+LePRD is an ANN model that takes in an image of a car and returns the license plate number in machine-readable text. It first locates the license plate in the image, and undergoes a variety of processing to then be fed into the model and return a prediction. The motivation for this project came from my friend Muhammad. While working as a security guard he found himself in situations where he would need to manually write down license plate numbers several times a day. This was a very tedious task and he wished for a convenient and accurate way of doing this.
+LePRD is a great machine learning project because it provides a scalable solution to a real world problem. I believe LePRD has a variety of uses including detecting license plates on tolls and highways, security guards writing up parking tickets, and in different areas of law enforcement. This is an ideal machine learning project because there is a large amount of data available to train and test this model.
+
